@@ -48,15 +48,5 @@
             "admin": true,
             "bots": 1
         }
-    ],
-    "bots": [{
-            "id": "1",
-            "name": "Bot_1"
-        },
-        {
-            "id": "2",
-            "name": "Bot_2"
-        }
-    ],
-    "Id_Bot": "all"
+    ]
 }
