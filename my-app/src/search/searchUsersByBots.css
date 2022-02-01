@@ -1,0 +1,19 @@
+.textForUsers {
+  color: rgb(55, 6, 102);
+  text-align: center;
+  font-size: 20pt;
+}
+
+.search {
+  padding: 2rem;
+  border: none;
+  box-shadow: 0px -6px 8px rgba(234, 237, 242, 0.5),
+    0px 6px 8px rgba(234, 237, 242, 0.5);
+  border-radius: 4rem;
+  width: 1200px;
+  height: 5px;
+  font-size: 1.8rem;
+  outline: none;
+  margin-top: 10px;
+  margin-left: 10px;
+}

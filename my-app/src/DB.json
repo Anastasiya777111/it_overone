@@ -1,0 +1,62 @@
+{
+    "users": [{
+            "id": "1",
+            "name": "Anna",
+            "avatar": "http://www.dejurka.ru/wp-content/uploads/2015/11/portrait-photo-inspiration2.jpg",
+            "admin": true,
+            "bots": 1
+        },
+        {
+            "id": "2",
+            "name": "Oleg",
+            "avatar": "https://www.kirilltigai.com/wp-content/uploads/Muzhskoj-fotoportret-v-studii-fotograf-Kirill-Tigaj_07.jpg",
+            "admin": true,
+            "bots": 2
+        },
+        {
+            "id": "3",
+            "name": "Yuliya",
+            "avatar": "https://itcrumbs.ru/wp-content/uploads/2018/04/kak-snyat-fotoportret-10.jpg",
+            "admin": true,
+            "bots": 1
+        },
+        {
+            "id": "4",
+            "name": "Vitaliy",
+            "avatar": "https://www.vladmuz.ru/article/photographing-portraits-of-male/photo-02.jpg",
+            "admin": true,
+            "bots": 2
+        },
+        {
+            "id": "5",
+            "name": "Konstantin",
+            "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaZeOvxymD5fGCzksb0sQ2EWZNu_2QWHS61A&usqp=CAU",
+            "admin": true,
+            "bots": 1
+        },
+        {
+            "id": "6",
+            "name": "Tatyana",
+            "avatar": "https://i.pinimg.com/originals/86/49/ff/8649ff07ee4908e46d52595d0c416d31.jpg",
+            "admin": true,
+            "bots": 2
+        },
+        {
+            "id": "7",
+            "name": "Ekaterina",
+            "avatar": "https://img5tv.cdnvideo.ru/shared/files/201901/1_870359.jpg",
+            "admin": true,
+            "bots": 1
+        }
+    ],
+    "bots": [{
+            "id": "1",
+            "name": "Bot_1"
+        },
+        {
+            "id": "2",
+            "name": "Bot_2"
+        }
+    ],
+    "Id_Bot": "all"
+}
